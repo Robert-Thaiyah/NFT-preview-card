@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color:hsl(217, 54%, 11%) ;
+    color: hsl(0, 0%, 100%);
+    font-family: 'Outfit', sans-serif;
+    margin: auto;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border: 10px solid hsl(216, 50%, 16%) ;
+    /* border-style: hidden; */
+    margin: auto;
+    margin-top: 50px;
+    background-color: hsl(216, 50%, 16%);
+   width: 350px;
+   height: 560px;
+   padding:20px 0 0 0;
+   border-radius: 20px;  
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.nft-image {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.title p{
+    text-align: left;
+    font-weight: 600;
+    padding-left: 25px;
+}
+
+.card .content p{
+    display: flex;
+    font-weight: 400;
+    text-align: left;
+    padding: 10px 20px;
+    
+}
+
+.price-tags {
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;  
+    justify-content: space-between;
+}
+
+.eth {
+    display: flex;
+    gap: 8px;
+}
+
+.time {
+    display: flex;
+    gap: 8px;
+}
+
+.border {
+    border: 1px solid hsl(215, 32%, 27%);
+    display: flex;
+    align-items: center;
+    margin: 5px 20px;
+
+}
+.icon-face {
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+    margin: 30px 0 30px 0;
+}
+
+.icon-face p, a {
+    padding: 5px;
+    text-align: center;
+}
+.profile {
+   height: 35px;  
+   border: 1px solid #fff;
+   border-radius: 50%;
+   
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.attribution { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+}
