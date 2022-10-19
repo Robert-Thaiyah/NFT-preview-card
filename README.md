@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Robert-Thaiyah)
-- Live Site URL: [Add live site URL here](https://robert-thaiyah.github.io/NFT-preview-card/)
+- Solution URL: [Github Repo](https://github.com/Robert-Thaiyah)
+- Live Site URL: [Live site URL](https://robert-thaiyah.github.io/NFT-preview-card/)
 
 ## My process
 
@@ -44,7 +44,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
@@ -60,4 +59,4 @@ Daily practise makes daily perfection.
 - Website - [Github Repo](https://github.com/Robert-Thaiyah)
 
 ## Acknowledgments
-
+Thank you for the challenge. 
