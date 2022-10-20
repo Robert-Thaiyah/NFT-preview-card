@@ -16,7 +16,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 This project was to build the NFT card as close to the original as possible.
@@ -48,6 +47,7 @@ Users should be able to:
 ### What I learned
 
 - How to place icons as an overlay
+- How to add a background to the image as an overlay
 
 ### Continued development
 
